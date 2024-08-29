@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d1366fb-5034-478a-bb4c-2db89e59107a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Tehtävät.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moduuli 2.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moduuli 2.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moduuli 2.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moduuli 2.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moduuli 2.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moduuli 2.6.py" afterDir="false" />
+    <list default="true" id="5d1366fb-5034-478a-bb4c-2db89e59107a" name="Changes" comment="ensimmäiset läksyt">
+      <change afterPath="$PROJECT_DIR$/Moduuli 3/Moduuli 3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Moduuli 3/Moduuli 3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Moduuli 3/Moduuli 3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Moduuli 3/Moduuli 3.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AleksiTuikkanen"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AleksiTuikkanen&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AleksiTuikkanen/tehtavat.git",
-    "accountId": "b1d58d04-24c6-4da6-a4e8-adf9ea3ebf25"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AleksiTuikkanen/tehtavat.git&quot;,
+    &quot;accountId&quot;: &quot;b1d58d04-24c6-4da6-a4e8-adf9ea3ebf25&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2lEUZoQO2Hbdji83eGEgEtTqpaz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -63,6 +56,10 @@
     "Python.Moduuli 2.5.executor": "Run",
     "Python.Moduuli 2.6.executor": "Run",
     "Python.Moduuli 2.executor": "Run",
+    "Python.Moduuli 3.1.executor": "Run",
+    "Python.Moduuli 3.2.executor": "Run",
+    "Python.Moduuli 3.3.executor": "Run",
+    "Python.Moduuli 3.4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -71,8 +68,18 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aleks\PycharmProjects\kokeilut\Tehtävät\Moduuli 3" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -89,8 +96,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724744787915</updated>
-      <workItem from="1724744789318" duration="10828000" />
+      <workItem from="1724744789318" duration="11836000" />
+      <workItem from="1724924881586" duration="11310000" />
     </task>
+    <task id="LOCAL-00001" summary="ensimmäiset läksyt">
+      <option name="closed" value="true" />
+      <created>1724758044284</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724758044285</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,13 +124,21 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ensimmäiset läksyt" />
+    <option name="LAST_COMMIT_MESSAGE" value="ensimmäiset läksyt" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_2.coverage" NAME="Moduuli 2 Coverage Results" MODIFIED="1724745068864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_2_2.coverage" NAME="Moduuli 2.2 Coverage Results" MODIFIED="1724754932336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_2_5.coverage" NAME="Moduuli 2.5 Coverage Results" MODIFIED="1724754990940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_2_1.coverage" NAME="Moduuli 2.1 Coverage Results" MODIFIED="1724754917188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_2_3.coverage" NAME="Moduuli 2.3 Coverage Results" MODIFIED="1724754951052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_3_3.coverage" NAME="Moduuli 3.3 Coverage Results" MODIFIED="1724944253887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_3_1.coverage" NAME="Moduuli 3.1 Coverage Results" MODIFIED="1724926020252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_3_4.coverage" NAME="Moduuli 3.4 Coverage Results" MODIFIED="1724946894051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_2_6.coverage" NAME="Moduuli 2.6 Coverage Results" MODIFIED="1724755569443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_2_4.coverage" NAME="Moduuli 2.4 Coverage Results" MODIFIED="1724754970405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_3_2.coverage" NAME="Moduuli 3.2 Coverage Results" MODIFIED="1724929443467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
