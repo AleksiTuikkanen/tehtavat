@@ -26,7 +26,7 @@ class Auto:
         self.kuljettu_matka += kauan * self.nopeus_nyt  # Aika kertaa nopeus kertoo kuljetun matkan, se lisätään kokonaisuuteen
         return self.kuljettu_matka
 
-# Aliohjelma jossa luodaan autot kisaa varten
+# Aliohjelma,   jossa luodaan autot kisaa varten
 def autotehdas (autojen_maara):
     auto_lista = [] # Tyhjä lista autoille
     for i in range(1,autojen_maara+1):
