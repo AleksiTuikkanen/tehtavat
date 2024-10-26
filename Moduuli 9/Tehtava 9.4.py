@@ -49,7 +49,7 @@ while not eka_maalissa:
             break
         auto.kiihdyta(random.randint(-10,15))
         auto.kulje(1)
-        kisan_kesto += 1
+    kisan_kesto += 1
 
 # Taulukon luominen ja tulostaminen
 table = PrettyTable()
