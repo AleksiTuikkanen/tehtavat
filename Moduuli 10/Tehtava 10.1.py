@@ -33,5 +33,3 @@ hissi1 = Hissi(1, 13)
 hissi1.siirry_kerrokseen(10)
 
 hissi1.siirry_kerrokseen(1)
-
-
