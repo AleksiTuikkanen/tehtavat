@@ -1,8 +1,13 @@
 import requests
 
-# Määritellään API-pyynnön URL
-url = "https://api.chucknorris.io/jokes/random"
 
+api_key = "ccc3368ddc259981a0c75688d550ad84"
+
+city_name = input("Enter city name: ")
+# Määritellään API-pyynnön URL
+url = f"https://api.openweathermap.org/data/2.5/weather?q={city_name}&units=metric&appid={api_key}"
+
+print(url)
 try:
     # Lähetetään GET-pyyntö
     vastaus = requests.get(url)
@@ -12,12 +17,10 @@ try:
         # Muutetaan JSON-vastaus sanakirjaksi
         data = vastaus.json()
 
-        # Tulostetaan vitsi, joka löytyy "value"-avaimesta
-        print(data["value"])
+        # Tulostetaan lämpötila, joka löytyy "value"-avaimesta
+        print(vastaus.json())
     else:
-        print("Vitsin hakeminen epäonnistui:", vastaus.status_code)
+        print("hakeminen epäonnistui:", vastaus.status_code)
 
 except requests.exceptions.RequestException as e:
     print("Hakua ei voitu suorittaa:", e)
-
-
