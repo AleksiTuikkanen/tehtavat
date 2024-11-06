@@ -18,7 +18,7 @@ try:
         data = vastaus.json()
 
         # Tulostetaan lämpötila, joka löytyy "value"-avaimesta
-        print(vastaus.json())
+        print(f"Lämpötila on {data['main']['temp']}\u00B0C")
     else:
         print("hakeminen epäonnistui:", vastaus.status_code)
 
