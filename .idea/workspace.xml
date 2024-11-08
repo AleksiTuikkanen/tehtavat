@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d1366fb-5034-478a-bb4c-2db89e59107a" name="Changes" comment="Ohjelmisto 2">
+      <change afterPath="$PROJECT_DIR$/Moduuli_13/tehtava_13.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli 12/tehtava 12.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli 12/tehtava 12.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 13/tehtava 13.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 5/Moduuli 5.3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli 5/Moduuli 5.3.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,83 +50,84 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.GPT versio.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Luukaksen_koodi_mutta_parempi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 2.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 2.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 2.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 2.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 2.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 3.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 3.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 3.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 3.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 4.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 4.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 4.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 4.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 4.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 5.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 5.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 5.3.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 5.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 5.4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 5.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 6.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 6.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 6.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 6.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 6.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 6.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 7.1.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 7.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 7.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli 7.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tehtava 10.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tehtava 10.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tehtava 11.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tehtava 9.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tehtava 9.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tehtava 9.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tehtava 9.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tehtavat 10.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tehtavat 11.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tehtävä 10.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arvo_kentta.executor&quot;: &quot;Run&quot;,
-    &quot;Python.logiikka.executor&quot;: &quot;Run&quot;,
-    &quot;Python.luukaksen koodi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mariaDb.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tehtava 12.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tehtava 12.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tehtava 13.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testi2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tietokanta_testi (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.tietokanta_testi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.valmis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vanhat_yhdistelmat.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.GPT versio.executor": "Run",
+    "Python.Luukaksen_koodi_mutta_parempi.executor": "Run",
+    "Python.Moduuli 2.1.executor": "Run",
+    "Python.Moduuli 2.2.executor": "Run",
+    "Python.Moduuli 2.3.executor": "Run",
+    "Python.Moduuli 2.4.executor": "Run",
+    "Python.Moduuli 2.5.executor": "Run",
+    "Python.Moduuli 2.6.executor": "Run",
+    "Python.Moduuli 2.executor": "Run",
+    "Python.Moduuli 3.1.executor": "Run",
+    "Python.Moduuli 3.2.executor": "Run",
+    "Python.Moduuli 3.3.executor": "Run",
+    "Python.Moduuli 3.4.executor": "Run",
+    "Python.Moduuli 4.1.executor": "Run",
+    "Python.Moduuli 4.2.executor": "Run",
+    "Python.Moduuli 4.3.executor": "Run",
+    "Python.Moduuli 4.4.executor": "Run",
+    "Python.Moduuli 4.5.executor": "Run",
+    "Python.Moduuli 4.6.executor": "Run",
+    "Python.Moduuli 5.1.executor": "Run",
+    "Python.Moduuli 5.2.executor": "Run",
+    "Python.Moduuli 5.3.1.executor": "Run",
+    "Python.Moduuli 5.3.executor": "Run",
+    "Python.Moduuli 5.4.1.executor": "Run",
+    "Python.Moduuli 5.4.executor": "Run",
+    "Python.Moduuli 6.1.executor": "Run",
+    "Python.Moduuli 6.2.executor": "Run",
+    "Python.Moduuli 6.3.executor": "Run",
+    "Python.Moduuli 6.4.executor": "Run",
+    "Python.Moduuli 6.5.executor": "Run",
+    "Python.Moduuli 6.6.executor": "Run",
+    "Python.Moduuli 7.1.1.executor": "Run",
+    "Python.Moduuli 7.1.executor": "Run",
+    "Python.Moduuli 7.2.executor": "Run",
+    "Python.Moduuli 7.3.executor": "Run",
+    "Python.Tehtava 10.2.executor": "Run",
+    "Python.Tehtava 10.3.executor": "Run",
+    "Python.Tehtava 11.1.executor": "Run",
+    "Python.Tehtava 9.1.executor": "Run",
+    "Python.Tehtava 9.2.executor": "Run",
+    "Python.Tehtava 9.3.executor": "Run",
+    "Python.Tehtava 9.4.executor": "Run",
+    "Python.Tehtavat 10.4.executor": "Run",
+    "Python.Tehtavat 11.2.executor": "Run",
+    "Python.Tehtävä 10.1.executor": "Run",
+    "Python.arvo_kentta.executor": "Run",
+    "Python.logiikka.executor": "Run",
+    "Python.luukaksen koodi.executor": "Run",
+    "Python.mariaDb.executor": "Run",
+    "Python.tehtava 12.1.executor": "Run",
+    "Python.tehtava 12.2.executor": "Run",
+    "Python.tehtava 13.1.executor": "Run",
+    "Python.tehtava_13.1.executor": "Run",
+    "Python.testi.executor": "Run",
+    "Python.testi2.executor": "Run",
+    "Python.tietokanta_testi (1).executor": "Run",
+    "Python.tietokanta_testi.executor": "Run",
+    "Python.valmis.executor": "Run",
+    "Python.vanhat_yhdistelmat.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Python&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\aleks\PycharmProjects\kokeilut\Tehtävät\Moduuli 6" />
@@ -193,7 +196,7 @@
       <workItem from="1730706703464" duration="23000" />
       <workItem from="1730813759888" duration="851000" />
       <workItem from="1730814628669" duration="3322000" />
-      <workItem from="1730886596575" duration="989000" />
+      <workItem from="1730886596575" duration="6569000" />
     </task>
     <task id="LOCAL-00001" summary="ensimmäiset läksyt">
       <option name="closed" value="true" />
@@ -329,7 +332,14 @@
       <option name="presentableId" value="LOCAL−00019" />
       <updated>1730823209753</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL−00020" summary="Ohjelmisto 2">
+      <option name="closed" value="true" />
+      <created>1730890108578</created>
+      <option name="number" value="LOCAL−00020" />
+      <option name="presentableId" value="LOCAL−00020" />
+      <updated>1730890108578</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,7 +365,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_2_5.coverage" NAME="Moduuli 2.5 Coverage Results" MODIFIED="1724754990940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_2_2.coverage" NAME="Moduuli 2.2 Coverage Results" MODIFIED="1724754932336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Tehtävät$tehtava_12_2.coverage" NAME="tehtava 12.2 Coverage Results" MODIFIED="1730889787594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 12" />
+    <SUITE FILE_PATH="coverage/Tehtävät$tehtava_12_2.coverage" NAME="tehtava 12.2 Coverage Results" MODIFIED="1730890084156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 12" />
     <SUITE FILE_PATH="coverage/Tehtävät$testi2.coverage" NAME="testi2 Coverage Results" MODIFIED="1728050760015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tietokannat" />
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_3_3.coverage" NAME="Moduuli 3.3 Coverage Results" MODIFIED="1724944253887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_4_1.coverage" NAME="Moduuli 4.1 Coverage Results" MODIFIED="1725179865509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 4" />
@@ -393,14 +403,14 @@
     <SUITE FILE_PATH="coverage/Tehtävät$Tehtava_9_2.coverage" NAME="Tehtava 9.2 Coverage Results" MODIFIED="1729769764836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 9" />
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_5_1.coverage" NAME="Moduuli 5.1 Coverage Results" MODIFIED="1725269976355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 5" />
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_2_1.coverage" NAME="Moduuli 2.1 Coverage Results" MODIFIED="1724754917188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Tehtävät$tehtava_13_1.coverage" NAME="tehtava 13.1 Coverage Results" MODIFIED="1730450552959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 13" />
+    <SUITE FILE_PATH="coverage/Tehtävät$tehtava_13_1.coverage" NAME="tehtava_13.1 Coverage Results" MODIFIED="1730902702820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli_13" />
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_3_2.coverage" NAME="Moduuli 3.2 Coverage Results" MODIFIED="1724929443467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_2_4.coverage" NAME="Moduuli 2.4 Coverage Results" MODIFIED="1724754970405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_6_4.coverage" NAME="Moduuli 6.4 Coverage Results" MODIFIED="1725704744020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 6" />
     <SUITE FILE_PATH="coverage/Tehtävät$Tehtava_9_3.coverage" NAME="Tehtava 9.3 Coverage Results" MODIFIED="1729769724030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 9" />
     <SUITE FILE_PATH="coverage/Tehtävät$Tehtävä_10_1.coverage" NAME="Tehtävä 10.1 Coverage Results" MODIFIED="1729878628634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 10" />
-    <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_5_3.coverage" NAME="Moduuli 5.3 Coverage Results" MODIFIED="1725278709345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 5" />
-    <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_5_3_1.coverage" NAME="Moduuli 5.3.1 Coverage Results" MODIFIED="1725278772610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 5" />
+    <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_5_3.coverage" NAME="Moduuli 5.3 Coverage Results" MODIFIED="1730899477860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 5" />
+    <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_5_3_1.coverage" NAME="Moduuli 5.3.1 Coverage Results" MODIFIED="1730900052686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 5" />
     <SUITE FILE_PATH="coverage/Tehtävät$mariaDb.coverage" NAME="mariaDb Coverage Results" MODIFIED="1726127505278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tietokannat" />
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_3_1.coverage" NAME="Moduuli 3.1 Coverage Results" MODIFIED="1724926020252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Tehtävät$Moduuli_4_2.coverage" NAME="Moduuli 4.2 Coverage Results" MODIFIED="1725181847058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 4" />
